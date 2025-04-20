@@ -1,4 +1,3 @@
-#1. Write a function that reads fasta files and counts how many sequences are present in the files and how long is each sequence
 library(tidyverse)
 #Bioconductor require its own package manager
 install.packages("BiocManager")
